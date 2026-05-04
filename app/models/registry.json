@@ -1,9 +1,10 @@
 {
   "svm_business_adoption": {
-    "filename": "svm_business_adoption.pkl",
+    "filename": "svm_pipeline.pkl",
     "domain": "Business Leadership",
     "type": "classification",
     "description": "Predicts adoption success in business leadership context",
     "uploaded_at": "2026-05-04"
   }
 }
+
